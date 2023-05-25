@@ -1,1 +1,3 @@
 # Traffic_controller_fuzzy
+
+Fuzzy mantık ve Mamdani yöntemi kullanarak trafik süreçlerini iyileştirmek için bir yaklaşım geliştirdik. Bu yaklaşım, trafik ışıklarının kontrol sürelerini dinamik olarak ayarlamayı ve araç bekleme sürelerini minimize etmeyi hedefliyor. Girdi değişkenleri olan araç yoğunluğu ve trafik akışı üzerindeki belirsizlikleri modelledik. Kurallar ve üyelik fonksiyonları ile değişkenler arasındaki ilişkileri tanımladık. Bu şekilde, trafik akışına göre yeşil ışık süresini optimize ettik ve araç bekleme sürelerini azalttık. Bu çözüm, trafik akışını düzenleyerek trafik sıkışıklığını azaltmayı ve yolculuk sürelerini iyileştirmeyi amaçlamaktadır.
